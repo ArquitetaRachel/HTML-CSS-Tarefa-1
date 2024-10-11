@@ -34,7 +34,7 @@ Você receberá um link de design do figma, onde você poderá se embasar seu pr
 [Figma](https://www.figma.com/design/QlCcJji4WLAfyO0XQKXt3D/One-Page---Site-de-Jogo?node-id=0-1&t=INE7rKnmRzxnTVyV-1)
 
 ### Regras do CSS
-Em relação ao CSS serão obrigatórias os seletores corretos e as seguintes propriedades:
+1. Em relação ao CSS serão obrigatórias os seletores corretos e as seguintes propriedades:
     - margin;
     - padding;
     - min-width e max-width;
