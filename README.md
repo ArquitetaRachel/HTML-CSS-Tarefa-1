@@ -7,6 +7,9 @@ O site é em estilo One Page, onde o aluno revisa conceitos de HTML e aplica o C
 ### Imagens
 ![Site](https://i.postimg.cc/CKyz4gLD/Site.png)
 
+### Site Online
+[Site](https://arquitetarachel.github.io/HTML-CSS-Tarefa-1/)
+
 ## Instruções dos alunos
 1. Você deve criar um site de um jogo (você escolhe sobre qual jogo, use sua criatividade!)
 2. Este site deve conter o seguinte menu de navegação:
