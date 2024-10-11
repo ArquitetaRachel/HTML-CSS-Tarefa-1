@@ -5,7 +5,7 @@ Este projeto foi desenvolvido para ser uma prática básica dos conceitos e manu
 O site é em estilo One Page, onde o aluno revisa conceitos de HTML e aplica o CSS.
 
 ### Imagens
-![Site](https://postimg.cc/MnD6WgBK)
+![Site] (https://postimg.cc/MnD6WgBK)
 [Site Base](https://postimg.cc/MnD6WgBK)
 
 ## Instruções dos alunos
